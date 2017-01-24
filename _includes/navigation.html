@@ -1,10 +1,15 @@
 {% for page in site.pages %}
-    {% if page.tags contains "about" %}
+    {% if page.tags contains "cfp" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+        {% endfor %}
+{% for page in site.pages %}
+    {% if page.tags contains "code_of_conduct" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 {% endfor %}
 {% for page in site.pages %}
-    {% if page.tags contains "contact" %}
+    {% if page.tags contains "host" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 {% endfor %}
