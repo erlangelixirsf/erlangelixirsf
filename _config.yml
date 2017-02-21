@@ -1,10 +1,10 @@
 # Site settings
 title:       Erlang &amp; Elixir SF
-email:       your_email@example.com
-author:      John Otander
+email:       organizers@erlangelixirsf.com
+author:      EESF
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://erlangelixirsf.com"
 date_format: "%b %-d, %Y"
 
 # Google services
