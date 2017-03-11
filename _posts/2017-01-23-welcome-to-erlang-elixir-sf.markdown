@@ -16,7 +16,7 @@ Wednesday, February 22 @ Pinterest HQ
 [https://www.meetup.com/ErlangSF/events/237227924/](https://www.meetup.com/ErlangSF/events/237227924/)
 
 ### Talks
-[Pete Hastie](https://twitter.com/sillypog), a backend developer at Bleacher Report, will talk about GenStage and how it's revolutionized the way we consume analytics data at b/r.  He'll also be speaking next month at the [Erlang & Elixir Factory SF](http://www.erlang-factory.com/sfbay2017/peter-hastie.html).
+[Pete Hastie](https://twitter.com/sillypog), a backend developer at Bleacher Report, will talk about GenStage and how it's revolutionized the way we consume analytics data at b/r.  He'll also be speaking next month at the [Erlang & Elixir Factory SF](http://www.erlang-factory.com/sfbay2017/peter-hastie.html). [Slides](http://sillypog.com/elixir-meetup-0217-genstage/#/) [Code](https://github.com/sillypog/supervised-genstage-app)
 
 [Jason Chen](https://twitter.com/jhchen), founder of slab.com, a new platform for team knowledge, will share how they built and scaled their realtime collaboration feature using Agents and GenServer. [Slides](https://dl.dropboxusercontent.com/u/796228/elixir-meetup.pdf)
 
